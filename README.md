@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on some good development projects to increase my knowledge
 - 📫 How to reach me : by mail aarushdua2004@gmail.com
-- 😄 Pronouns: 
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact:
 
 <!---
